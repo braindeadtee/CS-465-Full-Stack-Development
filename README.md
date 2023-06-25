@@ -36,4 +36,13 @@ Security considerations: The course emphasized the importance of security in web
 
 Overall, this course has provided me with a strong foundation in full stack web development and equipped me with the skills necessary to excel in my career. I am confident in my ability to contribute to real-world projects and meet the demands of the industry.
 
-![Screenshots](newly_added_trip.png)
+## Screenshots
+
+![Postman all trips](screenshots/postman_api_all_trips.PNG)
+![Application](screenshots/travlr_module3_running_travel_page.PNG)
+![ Add Trip](screenshots/Add Trip.PNG)
+![Edit Trip](screenshots/Edit Trip.PNG)
+![logged out view without add trips and edit button](screenshots/logged out view without add trips and edit button.PNG.PNG)
+![login screen](screenshots/login screen.PNG)
+![Postman login](screenshots/postman user login testing.PNG)
+![Newly Added Trip](screenshots/newly_added_trip.PNG)
